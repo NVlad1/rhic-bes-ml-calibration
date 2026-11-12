@@ -1,0 +1,9 @@
+corner
+emcee
+matplotlib
+numpy
+pandas
+scikit-learn
+tensorflow
+# Enables the MCMC notebooks' emcee progress=True output.
+tqdm
